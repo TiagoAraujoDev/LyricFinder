@@ -1,0 +1,23 @@
+section.myCard {
+  overflow: hidden;
+}
+
+button#findBtn {
+  border-radius: 0rem;
+}
+
+p#placeholder+div#lyricContainer {
+  padding: 1rem;
+  margin-inline: auto;
+  font-family: inherit;
+}
+
+footer.myFooter {
+  overflow: hidden;
+}
+
+ul.myUl {
+  list-style-type: none;
+}
+
+
